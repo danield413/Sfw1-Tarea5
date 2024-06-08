@@ -1,0 +1,26 @@
+{
+    "destino": "USA",
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2024-01-9",
+    "presupuesto_diario": 1000000,
+    "gastos": [
+        {
+            "fecha": "2024-01-01",
+            "tipo": "TRANSPORTE",
+            "valor": 374800,
+            "metodo_pago": "EFECTIVO"
+        },
+        {
+            "fecha": "2024-01-01",
+            "tipo": "ALOJAMIENTO",
+            "valor": 4020000,
+            "metodo_pago": "TARJETA"
+        },
+        {
+            "fecha": "2024-01-02",
+            "tipo": "COMPRAS",
+            "valor": 22220,
+            "metodo_pago": "TARJETA"
+        }
+    ]
+}

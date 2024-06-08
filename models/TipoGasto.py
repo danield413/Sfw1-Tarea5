@@ -1,0 +1,11 @@
+#create the enum
+
+from enum import Enum
+
+class TipoGasto(Enum):
+
+    TRANSPORTE = "TRANSPORTE"
+    ALIMENTACION = "ALIMENTACION"
+    ALOJAMIENTO = "ALOJAMIENTO"
+    ENTRETENIMIENTO = "ENTRETENIMIENTO"
+    COMPRAS = "COMPRAS"
